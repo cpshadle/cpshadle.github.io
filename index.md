@@ -1,4 +1,17 @@
-## Welcome to GitHub Pages
+## Conformance Rules
+
+This page is set up to assist in the collaboration crdeation and curation of CDISC conformance rules.  In addition to being able to comment and provide modifications to existing conformance rules, you may submit rules that you think would benefit the industry.
+
+Select what foundational standard the rule may apply to continue.
+
+[CDASH]()  
+[SDTM]()   
+[ADaM]() 
+[SEND]()  
+[Define]()  
+
+
+---------
 
 You can use the [editor on GitHub](https://github.com/cpshadle/cpshadle.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
