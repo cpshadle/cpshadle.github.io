@@ -5,7 +5,7 @@ This page is set up to assist in the collaboration creation and curation of CDIS
 To get started with a rule, select what foundational standard the rule may apply to continue.
 
 [CDASH]()  
-[SDTM](https://cpshadle.github.io/SDTM/)   
+[SDTM](https://cpshadle.github.io/SDTM/){:target="\_blank"}   
 [ADaM]() 
 [SEND]()  
 [Define]()  
