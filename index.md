@@ -2,7 +2,7 @@
 
 This page is set up to assist in the collaboration creation and curation of CDISC conformance rules.  In addition to being able to comment and provide modifications to existing conformance rules, you may submit rules that you think would benefit the industry.
 
-Select what foundational standard the rule may apply to continue.
+To get started with a rule, select what foundational standard the rule may apply to continue.
 
 [CDASH]()  
 [SDTM]()   
